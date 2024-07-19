@@ -1,2 +1,2 @@
-def yyy(g):
+def y1(g):
     print(g)
